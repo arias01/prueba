@@ -19,6 +19,10 @@ namespace WindowsFormsApplication2
 
         private void button2_Click(object sender, EventArgs e)
         {
+            MessageBox.Show("Bye");        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
 
         }
 
