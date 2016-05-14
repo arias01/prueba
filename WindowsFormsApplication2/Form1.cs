@@ -19,16 +19,19 @@ namespace WindowsFormsApplication2
 
         private void button2_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Bye");        }
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-
+            MessageBox.Show("Bye");
         }
+
+        
 
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("hola");
+        }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+
         }
     }
 }
